@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\herro_warudo\bin\Debug\net6.0\herro_warudo.exe
+C:\Users\HP\Desktop\herro_warudo\bin\Debug\net6.0\herro_warudo.deps.json
+C:\Users\HP\Desktop\herro_warudo\bin\Debug\net6.0\herro_warudo.runtimeconfig.json
+C:\Users\HP\Desktop\herro_warudo\bin\Debug\net6.0\herro_warudo.dll
+C:\Users\HP\Desktop\herro_warudo\bin\Debug\net6.0\herro_warudo.pdb
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\herro_warudo.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\herro_warudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\herro_warudo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\herro_warudo.AssemblyInfo.cs
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\herro_warudo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\herro_warudo.dll
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\refint\herro_warudo.dll
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\herro_warudo.pdb
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\herro_warudo.genruntimeconfig.cache
+C:\Users\HP\Desktop\herro_warudo\obj\Debug\net6.0\ref\herro_warudo.dll
